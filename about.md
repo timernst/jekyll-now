@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently, I'm studying Data Science at General Assembly. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My background is primarly in Counterparty Risk. I've worked as a project manager at Credit Suisse and Bank of America implimenting Counterparty Risk management systems. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The best way to reach me is through LinkedIn. A link is provided below. You can also contact me by email. 
+
+[timothyernst@outlook.com](mailto: timothyernst@outlook.com)
